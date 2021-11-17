@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 This in Local PC
+=======
+this file isa in github
+>>>>>>> a095c12d09883d22b13dd78a167334d68120ffa7
+
+
+new text added.
+Conflict Resolved.
+
